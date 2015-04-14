@@ -1,0 +1,6 @@
+Tmuxels 
+
+
+Tmuxels right now works best with the window set to 206x56. 
+
+Run the python script with ./tmuxel.py 23 14
